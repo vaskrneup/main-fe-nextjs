@@ -16,7 +16,7 @@ const Intro = () => {
                             I build software solutions for your problems.
                         </h2>
                         <p className={infoStyle.brief_intro}>
-                            👋 Hi there! I'm Bhaskar, a seasoned full-stack software developer specializing in Python for robust backend and automation solutions. I complement my Python skills with JavaScript, TypeScript, and Dart to craft user-friendly software experiences.
+                            👋 Hi there! I&apos;m Bhaskar, a seasoned full-stack software developer specializing in Python for robust backend and automation solutions. I complement my Python skills with JavaScript, TypeScript, and Dart to craft user-friendly software experiences.
                         </p>
                         <a
                             href="https://drive.google.com/file/d/1T5ylRVGZAIy6kfaZViSfaj1ePzqCu2RX/view?usp=sharing"
