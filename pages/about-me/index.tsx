@@ -13,7 +13,7 @@ const AboutMe = (props: AboutMePagesComponentPropsDataType) => {
                 keywords={["about", "Bhaskar Neupane", "vaskrneup"]}
                 baseMetaData={{
                     author: "Bhaskar Neupane",
-                    description: "I am a recent A-Levels graduate and a Full-Stack software developer based in Toronto, Canada.",
+                    description: "👋 Hi there! I'm Bhaskar Neupane, a seasoned full-stack software developer specializing in Python for robust backend and automation solutions. I complement my Python skills with JavaScript, TypeScript, and Dart to craft user-friendly software experiences.",
                     title: "About Me",
                     imageUrl: META_IMAGES.aboutMeImage,
                     type: "blog",
